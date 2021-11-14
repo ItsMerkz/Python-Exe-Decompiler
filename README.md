@@ -19,3 +19,4 @@ Linux Usage
 python3 decompiler.py (file name)
 ```
 The Decompiler File **Must Be In The Same Folder** As The Exe Your Trying To Decompile
+Also Please Make Sure To Dm Me On Discord If You Have Any Problems Using This **Haribo#1337**
