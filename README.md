@@ -1,5 +1,4 @@
 # Python-Exe-Decompiler
-Decompiles Exe's That Were Compiled Using Pyinstaller
 **Python Modules Needed**
 os, struct, marshal, zlib, sys
 **Python Module Installation**
